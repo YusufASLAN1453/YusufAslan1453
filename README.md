@@ -20,6 +20,7 @@
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
+![rgb](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/641d9bd7-4fab-419f-925b-a1b099fa46c0)
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
 
