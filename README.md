@@ -14,5 +14,6 @@
 <p align="center">Projelerimle ilgili geri bildirimlerinizi bekliyorum!</p>
 
 <p align="center">Teşekkürler ve görüşmek üzere! 😊</p>
-![Yusuf](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/f5719173-b91e-4ecd-880e-320082c4fddd)
 
+
+![Yusuf](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/2ae93afc-b225-4cba-9c71-65b443c1780d)
