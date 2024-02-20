@@ -1,5 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
-<h1> Merhaba Dünya! 👋 </h1>
+<h1> Merhaba ! 👋 </h1>
 
 🌟 Ben Yusuf Aslan, yazılım geliştirmeye ve teknolojiye tutkulu biriyim. 
 
