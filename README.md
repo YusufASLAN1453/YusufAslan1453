@@ -1,4 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
 <h1> Merhaba ! 👋 </h1>
 
 🌟 Ben Yusuf Aslan, yazılım geliştirmeye ve teknolojiye tutkulu biriyim. 
@@ -20,3 +19,7 @@
 🌟 Bana katılın ve birlikte harika şeyler başaralım!
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
+
