@@ -1,4 +1,3 @@
-![Şah](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/2ebf6e00-4bb4-4510-b5fa-b055756394a7)
 <h1 align="center">Merhaba, Ben Yusuf Aslan! 👋</h1>
 
 <p align="center">Lise bilişim bölümü öğrencisi ve meraklı bir kod yazıcıyım. GitHub'da yeni şeyler öğrenmeye ve projeler geliştirmeye çalışıyorum.</p>
@@ -13,6 +12,5 @@
 
 <p align="center">Projelerimle ilgili geri bildirimlerinizi bekliyorum!</p>
 
-<p align="center">Teşekkürler ve görüşmek üzere! 😊</p>
-![Yusuf](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/f5719173-b91e-4ecd-880e-320082c4fddd)
+<p align="center">Teşekkürler ve görüşmek üzere!😊</p>
 
