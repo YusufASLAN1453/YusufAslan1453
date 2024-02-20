@@ -8,7 +8,7 @@
 <p align="center">Benimle iletişime geçmek için:</p>
 
 <p align="center">
-  <p>aslanyusufsamet02@gmail.com</p>
+  aslanyusufsamet02@gmail.com
 </p>
 
 <p align="center">Projelerimle ilgili geri bildirimlerinizi bekliyorum!</p>
