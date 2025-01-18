@@ -20,7 +20,6 @@
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
-![michael-jackson-heehee](https://github.com/YusufASLAN1453/YusufAslan1453/assets/144056342/af0fe4b1-7b77-4166-9778-dda5e60b1d5e)
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
 
