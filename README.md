@@ -26,7 +26,7 @@
 - Yazılım test teknikleri
 
 ## 📫 İletişim
-- E-posta: yusufaslan1453@gmail.com
+- E-posta: yusufaslan145300@gmail.com
 - GitHub: YusufASLAN1453
 
 ---
