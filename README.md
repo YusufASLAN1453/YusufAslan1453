@@ -1,25 +1,27 @@
-<h1> Merhaba ! 👋 </h1>
+# 👋 Hey! Ben Yusuf
 
-🌟 Ben Yusuf Aslan, yazılım geliştirmeye ve teknolojiye tutkulu biriyim. 
+💻 Bilgisayar Programcılığı öğrencisi @ Atlas Üniversitesi  
+⚡ Web geliştirme, oyun & ufak otomasyon projeleriyle uğraşıyorum  
+🚀 Hedef: GitHub’ı doldurup **level atlamak**
 
-💻 C# konusunda temel bilgilere sahibim, ayrıca orta düzeyde Java Script becerilerine de sahibim.
+---
 
-📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum, çünkü yazılım dünyası sürekli olarak değişiyor.
+### 🔧 Kullandığım Teknolojiler
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,mysql,github,vscode)](https://skillicons.dev)
 
-🚀 GitHub profilimde, farklı projelerde çalıştığım ve kişisel projelerimi paylaştığım birçok repository bulabilirsiniz. 
+---
 
-🕹️ İlgilendiğim alanlar arasında 💻 web uygulamaları ve grafik tasarımları bulunuyor. Bu alanlarda daha derinleşmek ve yeni teknolojileri keşfetmek için sürekli çaba sarf ediyorum.
+### 📊 GitHub Stats
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufAslan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAslan&layout=compact&theme=radical)
 
-🌍 Açık kaynak topluluklarına katkıda bulunmaktan keyif alıyorum. Farklı projelerde aktif olarak işbirliği yapıyor ve katkı sağlamak için elimden geleni yapıyorum. 
+---
 
-🤝 Ayrıca, yeni projelerde işbirliği yapmaktan ve deneyimlerimi paylaşmaktan büyük mutluluk duyuyorum. Bir projede birlikte çalışmak veya projelerim hakkında daha fazla bilgi almak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin.
+### 🎯 Küçük Proje Fikirleri (ilk reposuna koy)
+- ✅ **To-Do App** (HTML, CSS, JS)  
+- ✅ **Not Defteri (C# WinForms)**  
+- ✅ **Hava Durumu Uygulaması (JS + API)**  
 
-🔎 GitHub profilimdeki projelerimi keşfedebilir ve takip edebilirsiniz. Herhangi bir geri bildirim veya öneriye açığım ve teknolojiyle ilgili konularda konuşmayı ve yeni insanlarla tanışmayı dört gözle bekliyorum. 
+---
 
-🌟 Bana katılın ve birlikte harika şeyler başaralım!
-
-🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,ae,ps)](https://skillicons.dev)
-
+⚡ *“Code, commit, repeat.”*
