@@ -41,11 +41,9 @@
       <td width="50%">
         <h3 align="center">Web Tabanlı Not Uygulaması</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200/ee82ee/ffffff?text=Web+Not+Uygulaması" alt="Proje 2"/>
           <br>
           <p>React ve Node.js ile geliştirdiğim not alma uygulaması</p>
           <a href="https://github.com/kullaniciadiniz/web-not-uygulamasi">
-            <img src="https://img.shields.io/badge/🔗-GitHub-ee82ee?style=for-the-badge" />
           </a>
         </div>
       </td>
