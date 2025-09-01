@@ -1,4 +1,4 @@
-# Merhaba, Ben [İsminiz] 👋
+# Merhaba, Ben Yusuf 👋
 
 🌐 **Atlas Üniversitesi** - Bilgisayar Programcılığı Öğrencisi  
 💻 **Yazılım Geliştirici Adayı** | 🚀 **Yeni Teknolojiler Öğreniyorum**
