@@ -40,8 +40,8 @@
 - Yazılım test teknikleri
 
 ## 📫 İletişim
-- LinkedIn: [Profil Linki]
-- E-posta: email@example.com
+- LinkedIn: 
+- E-posta: yusufaslan145300@gmail.com
 
 ---
 
