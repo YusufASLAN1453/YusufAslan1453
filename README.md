@@ -1,7 +1,7 @@
 <!-- Mavi-Pembe Neon Temalı GitHub Profili -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0:ee82ee,1:7b68ee&height=200&section=header&text=Atlas%20Üniversitesi&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=PC%20Programcılığı%20Öğrencisi&descAlignY=70)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0:ee82ee,1:7b68ee&height=200&section=header&text=Yusuf%Aslan)
   
   <!-- Sosyal Medya Bağlantıları -->
   <a href="https://www.linkedin.com/in/">
