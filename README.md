@@ -1,4 +1,4 @@
-# Merhaba, Ben [İsminiz] 👋
+# Merhaba, Ben Yusuf 👋
 
 🌐 **Atlas Üniversitesi** - Bilgisayar Programcılığı Öğrencisi  
 💻 **Yazılım Geliştirici Adayı** | 🚀 **Yeni Teknolojiler Öğreniyorum**
@@ -26,9 +26,8 @@
 - Yazılım test teknikleri
 
 ## 📫 İletişim
-- LinkedIn: [Profil Linkiniz]
-- E-posta: email@example.com
-- GitHub: [Kullanıcı Adınız]
+- E-posta: yusufaslan1453@gmail.com
+- GitHub: YusufASLAN1453
 
 ---
 
