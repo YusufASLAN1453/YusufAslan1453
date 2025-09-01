@@ -30,9 +30,9 @@
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufASLAN1453&show_icons=true&theme=default)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=default)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufASLAN1453&layout=compact&theme=default)
 
 ## 🌱 Şu Anda Öğrendiklerim
 - Web API geliştirme
